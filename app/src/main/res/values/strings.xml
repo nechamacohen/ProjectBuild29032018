@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjectBuild</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="messageTypes">
+        <item>אירועים</item>
+        <item>יד שנייה</item>
+        <item>אבידות ומציאות</item>
+        <item>שונות</item>
+    </string-array>
+
+    <string-array name="committeeTypes">
+        <item>תקלות</item>
+        <item>בקשות</item>
+        <item>פניות נוספות</item>
+    </string-array>
+
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>
